@@ -1,9 +1,9 @@
 자기소개
 ----------------------------
-이름 : 
+이름 : 김기훈
 
-팀 : 
+팀 : 유엑스개발팀이었
 
-Github ID : 
+Github ID : kimkihoon87
 
-E-mail : 
+E-mail : kimgihoon@wemakeprice.com
